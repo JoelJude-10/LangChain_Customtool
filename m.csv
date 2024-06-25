@@ -1,0 +1,41 @@
+index,Claim Number,Policy Number,Hospital County,Operating Certificate Number,Facility ID,Facility Name,Age Group,Zip Code - 3 digits,Gender,Race,Length of Stay,Type of Admission,Discharge Year,CCS Diagnosis Code,CCS Procedure Code,APR DRG Code,Source of Payment 1,Attending Provider License Number,Emergency Department Indicator,Total Charges,Total Costs
+1,676453199,81021725955,Albany,101000,5001,Albany Medical Center Hospital,18 to 29,100,F,White,1,Emergency,2010,135,0,249,Blue Cross,3623,Y,4476.23,1672.65
+2,506146995,56487766153,Albany,101000,5002,Albany Medical Center Hospital,50 to 69,100,M,White,15,Emergency,2010,231,61,912,Insurance Company,216951,Y,148612.34,51414.7
+3,337903097,79827666223,Albany,101000,5003,Albany Medical Center Hospital,70 or Older,100,M,White,3,Emergency,2010,42,0,240,Medicare,3076,N,16561.99,4032.49
+4,565126717,87875279915,Albany,101000,5004,Albany Medical Center Hospital,70 or Older,100,F,White,5,Elective,2010,254,215,860,Medicare,140796,N,13593.51,4947.81
+5,698629452,97232553964,Albany,101000,5005,Albany Medical Center Hospital,70 or Older,100,F,White,4,Elective,2010,203,153,301,Medicare,170254,N,31962.58,16988.33
+6,681628372,77377468934,Albany,101000,5006,Albany Medical Center Hospital,0 to 17,100,M,White,3,Emergency,2010,234,0,930,Insurance Company,218155,N,8420.75,3246.34
+7,775213688,12026524858,Albany,101000,5007,Albany Medical Center Hospital,0 to 17,100,M,White,4,Emergency,2010,234,108,930,Medicaid,207219,Y,21090.63,6194.34
+8,530938870,32601332468,Albany,101000,5008,Albany Medical Center Hospital,0 to 17,100,F,White,1,Emergency,2010,242,0,812,Insurance Company,244921,Y,3571.75,1435.34
+9,147628854,61163564856,Albany,101000,5009,Albany Medical Center Hospital,0 to 17,100,F,White,1,Emergency,2010,229,0,342,Insurance Company,242288,Y,7850.84,2278.3
+10,940606861,61465167960,Albany,101000,5010,Albany Medical Center Hospital,30 to 49,100,M,White,2,Elective,2010,143,86,227,Other Federal Program,191936,N,13787.0,7491.89
+11,381396223,73360205433,Allegany,226700,5011,Cuba Memorial Hospital Inc,70 or Older,140,M,White,7,Elective,2010,122,0,139,Medicare,246593,N,5017.55,7648.43
+12,356259254,26016230271,Allegany,226700,5012,Cuba Memorial Hospital Inc,0 to 17,141,F,White,1,Elective,2010,128,0,141,Medicaid,182357,N,567.5,957.72
+13,482103637,40325479210,Allegany,226700,5013,Cuba Memorial Hospital Inc,70 or Older,142,M,White,1,Elective,2010,2,0,720,Medicare,246593,N,730.5,1071.26
+14,472691945,66209515585,Allegany,226700,5014,Cuba Memorial Hospital Inc,70 or Older,144,F,White,3,Elective,2010,55,202,422,Medicare,90301264,N,2013.9,3586.77
+15,312085345,38484947034,Allegany,226700,5015,Cuba Memorial Hospital Inc,18 to 29,145,F,White,1,Elective,2010,124,0,113,Blue Cross,182357,N,1028.51,1476.1
+16,253162568,73183248962,Allegany,226700,5016,Cuba Memorial Hospital Inc,0 to 17,147,M,White,2,Elective,2010,122,0,139,Medicaid,182357,Y,1563.8,2226.71
+17,702838357,54696725697,Allegany,226700,5017,Cuba Memorial Hospital Inc,0 to 17,147,M,White,1,Elective,2010,7,0,723,Blue Cross,182357,Y,2506.2,2771.11
+18,769341110,51271552020,Allegany,226700,5018,Cuba Memorial Hospital Inc,0 to 17,147,M,White,1,Elective,2010,128,0,141,Medicaid,182357,Y,1180.0,1387.0
+19,299661094,89061882634,Allegany,226700,5019,Cuba Memorial Hospital Inc,0 to 17,147,M,White,1,Elective,2010,122,0,139,Blue Cross,182357,N,832.8,1298.04
+20,420307869,68810868801,Allegany,226700,5020,Cuba Memorial Hospital Inc,0 to 17,147,M,White,1,Elective,2010,154,0,249,Blue Cross,182357,N,524.25,462.63
+21,948409690,18081563784,Allegany,226700,5021,Cuba Memorial Hospital Inc,0 to 17,147,M,White,1,Elective,2010,122,0,139,Medicaid,182357,N,550.5,902.41
+22,683348597,78171856966,Allegany,226700,5022,Cuba Memorial Hospital Inc,0 to 17,147,M,White,1,Elective,2010,128,0,141,Self-Pay,182357,N,356.0,745.33
+23,816056925,52143102960,Broome,303001,5023,United Health Services Hospitals Inc. - Binghamton General Hospital,0 to 17,100,M,Black/African American,3,Emergency,2010,61,0,662,Insurance Company,163168,Y,7274.7,2121.65
+24,294960918,26183767498,Broome,303001,5024,United Health Services Hospitals Inc. - Binghamton General Hospital,50 to 69,100,M,White,2,Emergency,2010,211,198,58,Self-Pay,239435,Y,7867.4,3265.83
+25,101942089,29092407834,Broome,303001,5025,United Health Services Hospitals Inc. - Binghamton General Hospital,50 to 69,100,M,White,29,Emergency,2010,657,218,753,Self-Pay,120267,Y,39889.8,15994.33
+26,864256029,21293552936,Broome,303001,5026,United Health Services Hospitals Inc. - Binghamton General Hospital,50 to 69,100,M,White,6,Urgent,2010,657,0,753,Other Federal Program,233924,N,6943.6,2697.19
+27,229538286,93287088347,Broome,303001,5027,United Health Services Hospitals Inc. - Binghamton General Hospital,18 to 29,104,F,Black/African American,4,Emergency,2010,660,219,775,Medicaid,154048,Y,4498.6,3496.4
+28,787387612,20121078967,Broome,303001,5028,United Health Services Hospitals Inc. - Binghamton General Hospital,50 to 69,108,F,White,35,Emergency,2010,653,0,42,Medicare,233180,Y,46139.2,18178.33
+29,282601284,41651477555,Broome,303001,5029,United Health Services Hospitals Inc. - Binghamton General Hospital,18 to 29,109,F,White,2,Emergency,2010,241,0,812,Blue Cross,250558,Y,8690.9,2288.32
+30,134032389,37578520216,Broome,303001,5030,United Health Services Hospitals Inc. - Binghamton General Hospital,30 to 49,112,F,White,6,Elective,2010,659,0,751,Insurance Company,180126,Y,10099.5,3692.72
+31,878707308,64650315804,Broome,303001,5031,United Health Services Hospitals Inc. - Binghamton General Hospital,18 to 29,114,M,Unknown,1,Emergency,2010,7,4,723,Insurance Company,237408,Y,7858.4,2537.29
+32,151274951,47519092566,Broome,303001,5032,United Health Services Hospitals Inc. - Binghamton General Hospital,18 to 29,115,F,White,9,Emergency,2010,659,0,751,Insurance Company,229260,Y,15882.3,5901.72
+33,307180231,98548246277,Broome,303001,5033,United Health Services Hospitals Inc. - Binghamton General Hospital,18 to 29,117,M,Other Race,1,Emergency,2010,131,216,133,Insurance Company,229009,Y,9867.0,3578.81
+34,822306523,77363205728,Broome,303001,5034,United Health Services Hospitals Inc. - Binghamton General Hospital,18 to 29,120,F,White,4,Emergency,2010,657,0,753,Medicare,233180,Y,8710.1,3270.79
+35,919459930,99622150915,Broome,303001,5035,United Health Services Hospitals Inc. - Binghamton General Hospital,30 to 49,120,M,White,5,Emergency,2010,651,0,755,Insurance Company,122304,Y,10960.2,4260.56
+36,437879822,20032621019,Broome,303001,5036,United Health Services Hospitals Inc. - Binghamton General Hospital,18 to 29,121,M,White,12,Emergency,2010,657,0,754,Medicaid,229260,Y,16061.4,6487.57
+37,222146522,32979073102,Broome,303001,5037,United Health Services Hospitals Inc. - Binghamton General Hospital,18 to 29,121,M,White,7,Emergency,2010,657,0,754,Medicaid,229260,Y,10579.5,4525.86
+38,926916211,27007255610,Broome,303001,5038,United Health Services Hospitals Inc. - Binghamton General Hospital,18 to 29,121,F,White,5,Emergency,2010,657,0,753,Blue Cross,233924,Y,9007.8,3661.3
+39,238621883,24804652649,Columbia,1001000,5039,Columbia Memorial Hospital,0 to 17,100,M,Unknown,3,Newborn,2010,218,32,614,Insurance Company,183822,N,3957.0,1430.16
+40,734691202,51662105060,Columbia,1001000,5040,Columbia Memorial Hospital,18 to 29,100,F,Unknown,3,Elective,2010,195,134,540,Insurance Company,218888,N,8322.4,3859.1

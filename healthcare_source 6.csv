@@ -1,0 +1,101 @@
+﻿index,Claim Number,Policy Number,Hospital County,Operating Certificate Number,Facility ID,Facility Name,Age Group,Zip Code - 3 digits,Gender,Race,Length of Stay,Type of Admission,Discharge Year,CCS Diagnosis Code,CCS Procedure Code,APR DRG Code,Source of Payment 1,Attending Provider License Number,Emergency Department Indicator,Total Charges,Total Costs
+1,676453199,81021725955,Albany,101000,5001,Albany Medical Center Hospital,18 to 29,100,F,White,1,Emergency,2010,135,0,249,Blue Cross,3623,Y,4476.23,1672.65
+2,506146995,56487766153,Albany,101000,5002,Albany Medical Center Hospital,50 to 69,100,M,White,15,Emergency,2010,231,61,912,Insurance Company,216951,Y,148612.34,51414.7
+3,337903097,79827666223,Albany,101000,5003,Albany Medical Center Hospital,70 or Older,100,M,White,3,Emergency,2010,42,0,240,Medicare,3076,N,16561.99,4032.49
+4,565126717,87875279915,Albany,101000,5004,Albany Medical Center Hospital,70 or Older,100,F,White,5,Elective,2010,254,215,860,Medicare,140796,N,13593.51,4947.81
+5,698629452,97232553964,Albany,101000,5005,Albany Medical Center Hospital,70 or Older,100,F,White,4,Elective,2010,203,153,301,Medicare,170254,N,31962.58,16988.33
+6,681628372,77377468934,Albany,101000,5006,Albany Medical Center Hospital,0 to 17,100,M,White,3,Emergency,2010,234,0,930,Insurance Company,218155,N,8420.75,3246.34
+7,775213688,12026524858,Albany,101000,5007,Albany Medical Center Hospital,0 to 17,100,M,White,4,Emergency,2010,234,108,930,Medicaid,207219,Y,21090.63,6194.34
+8,530938870,32601332468,Albany,101000,5008,Albany Medical Center Hospital,0 to 17,100,F,White,1,Emergency,2010,242,0,812,Insurance Company,244921,Y,3571.75,1435.34
+9,147628854,61163564856,Albany,101000,5009,Albany Medical Center Hospital,0 to 17,100,F,White,1,Emergency,2010,229,0,342,Insurance Company,242288,Y,7850.84,2278.3
+10,940606861,61465167960,Albany,101000,5010,Albany Medical Center Hospital,30 to 49,100,M,White,2,Elective,2010,143,86,227,Other Federal Program,191936,N,13787,7491.89
+11,381396223,73360205433,Allegany,226700,5011,Cuba Memorial Hospital Inc,70 or Older,140,M,White,7,Elective,2010,122,0,139,Medicare,246593,N,5017.55,7648.43
+12,356259254,26016230271,Allegany,226700,5012,Cuba Memorial Hospital Inc,0 to 17,141,F,White,1,Elective,2010,128,0,141,Medicaid,182357,N,567.5,957.72
+13,482103637,40325479210,Allegany,226700,5013,Cuba Memorial Hospital Inc,70 or Older,142,M,White,1,Elective,2010,2,0,720,Medicare,246593,N,730.5,1071.26
+14,472691945,66209515585,Allegany,226700,5014,Cuba Memorial Hospital Inc,70 or Older,144,F,White,3,Elective,2010,55,202,422,Medicare,90301264,N,2013.9,3586.77
+15,312085345,38484947034,Allegany,226700,5015,Cuba Memorial Hospital Inc,18 to 29,145,F,White,1,Elective,2010,124,0,113,Blue Cross,182357,N,1028.51,1476.1
+16,253162568,73183248962,Allegany,226700,5016,Cuba Memorial Hospital Inc,0 to 17,147,M,White,2,Elective,2010,122,0,139,Medicaid,182357,Y,1563.8,2226.71
+17,702838357,54696725697,Allegany,226700,5017,Cuba Memorial Hospital Inc,0 to 17,147,M,White,1,Elective,2010,7,0,723,Blue Cross,182357,Y,2506.2,2771.11
+18,769341110,51271552020,Allegany,226700,5018,Cuba Memorial Hospital Inc,0 to 17,147,M,White,1,Elective,2010,128,0,141,Medicaid,182357,Y,1180,1387
+19,299661094,89061882634,Allegany,226700,5019,Cuba Memorial Hospital Inc,0 to 17,147,M,White,1,Elective,2010,122,0,139,Blue Cross,182357,N,832.8,1298.04
+20,420307869,68810868801,Allegany,226700,5020,Cuba Memorial Hospital Inc,0 to 17,147,M,White,1,Elective,2010,154,0,249,Blue Cross,182357,N,524.25,462.63
+21,948409690,18081563784,Allegany,226700,5021,Cuba Memorial Hospital Inc,0 to 17,147,M,White,1,Elective,2010,122,0,139,Medicaid,182357,N,550.5,902.41
+22,683348597,78171856966,Allegany,226700,5022,Cuba Memorial Hospital Inc,0 to 17,147,M,White,1,Elective,2010,128,0,141,Self-Pay,182357,N,356,745.33
+23,816056925,52143102960,Broome,303001,5023,United Health Services Hospitals Inc. - Binghamton General Hospital,0 to 17,100,M,Black/African American,3,Emergency,2010,61,0,662,Insurance Company,163168,Y,7274.7,2121.65
+24,294960918,26183767498,Broome,303001,5024,United Health Services Hospitals Inc. - Binghamton General Hospital,50 to 69,100,M,White,2,Emergency,2010,211,198,58,Self-Pay,239435,Y,7867.4,3265.83
+25,101942089,29092407834,Broome,303001,5025,United Health Services Hospitals Inc. - Binghamton General Hospital,50 to 69,100,M,White,29,Emergency,2010,657,218,753,Self-Pay,120267,Y,39889.8,15994.33
+26,864256029,21293552936,Broome,303001,5026,United Health Services Hospitals Inc. - Binghamton General Hospital,50 to 69,100,M,White,6,Urgent,2010,657,0,753,Other Federal Program,233924,N,6943.6,2697.19
+27,229538286,93287088347,Broome,303001,5027,United Health Services Hospitals Inc. - Binghamton General Hospital,18 to 29,104,F,Black/African American,4,Emergency,2010,660,219,775,Medicaid,154048,Y,4498.6,3496.4
+28,787387612,20121078967,Broome,303001,5028,United Health Services Hospitals Inc. - Binghamton General Hospital,50 to 69,108,F,White,35,Emergency,2010,653,0,42,Medicare,233180,Y,46139.2,18178.33
+29,282601284,41651477555,Broome,303001,5029,United Health Services Hospitals Inc. - Binghamton General Hospital,18 to 29,109,F,White,2,Emergency,2010,241,0,812,Blue Cross,250558,Y,8690.9,2288.32
+30,134032389,37578520216,Broome,303001,5030,United Health Services Hospitals Inc. - Binghamton General Hospital,30 to 49,112,F,White,6,Elective,2010,659,0,751,Insurance Company,180126,Y,10099.5,3692.72
+31,878707308,64650315804,Broome,303001,5031,United Health Services Hospitals Inc. - Binghamton General Hospital,18 to 29,114,M,Unknown,1,Emergency,2010,7,4,723,Insurance Company,237408,Y,7858.4,2537.29
+32,151274951,47519092566,Broome,303001,5032,United Health Services Hospitals Inc. - Binghamton General Hospital,18 to 29,115,F,White,9,Emergency,2010,659,0,751,Insurance Company,229260,Y,15882.3,5901.72
+33,307180231,98548246277,Broome,303001,5033,United Health Services Hospitals Inc. - Binghamton General Hospital,18 to 29,117,M,Other Race,1,Emergency,2010,131,216,133,Insurance Company,229009,Y,9867,3578.81
+34,822306523,77363205728,Broome,303001,5034,United Health Services Hospitals Inc. - Binghamton General Hospital,18 to 29,120,F,White,4,Emergency,2010,657,0,753,Medicare,233180,Y,8710.1,3270.79
+35,919459930,99622150915,Broome,303001,5035,United Health Services Hospitals Inc. - Binghamton General Hospital,30 to 49,120,M,White,5,Emergency,2010,651,0,755,Insurance Company,122304,Y,10960.2,4260.56
+36,437879822,20032621019,Broome,303001,5036,United Health Services Hospitals Inc. - Binghamton General Hospital,18 to 29,121,M,White,12,Emergency,2010,657,0,754,Medicaid,229260,Y,16061.4,6487.57
+37,222146522,32979073102,Broome,303001,5037,United Health Services Hospitals Inc. - Binghamton General Hospital,18 to 29,121,M,White,7,Emergency,2010,657,0,754,Medicaid,229260,Y,10579.5,4525.86
+38,926916211,27007255610,Broome,303001,5038,United Health Services Hospitals Inc. - Binghamton General Hospital,18 to 29,121,F,White,5,Emergency,2010,657,0,753,Blue Cross,233924,Y,9007.8,3661.3
+39,238621883,24804652649,Columbia,1001000,5039,Columbia Memorial Hospital,0 to 17,100,M,Unknown,3,Newborn,2010,218,32,614,Insurance Company,183822,N,3957,1430.16
+40,734691202,51662105060,Columbia,1001000,5040,Columbia Memorial Hospital,18 to 29,100,F,Unknown,3,Elective,2010,195,134,540,Insurance Company,218888,N,8322.4,3859.1
+41,253618299,53260347742,Columbia,1001000,5041,Columbia Memorial Hospital,30 to 49,100,M,White,1,Emergency,2010,102,0,203,Self-Pay,246746,Y,6494.38,1852.62
+42,658203724,74704659153,Columbia,1001000,5042,Columbia Memorial Hospital,30 to 49,100,M,White,1,Emergency,2010,229,148,316,Insurance Company,223621,Y,7833.89,3042.88
+43,844523183,18652926523,Columbia,1001000,5043,Columbia Memorial Hospital,50 to 69,100,M,White,2,Elective,2010,145,0,247,Insurance Company,140481,N,5115.69,1709.96
+44,998819819,20473605679,Columbia,1001000,5044,Columbia Memorial Hospital,50 to 69,100,M,White,1,Emergency,2010,660,219,775,Insurance Company,246746,Y,2599.85,1177.12
+45,631632948,60180354095,Columbia,1001000,5045,Columbia Memorial Hospital,70 or Older,100,M,White,3,Emergency,2010,130,39,143,Medicare,248055,Y,7465.98,2989.95
+46,742547434,78916240074,Columbia,1001000,5046,Columbia Memorial Hospital,70 or Older,100,M,White,11,Emergency,2010,146,78,221,Medicare,249738,Y,36310.41,18403.57
+47,840817579,83753862512,Columbia,1001000,5047,Columbia Memorial Hospital,70 or Older,100,F,White,2,Emergency,2010,95,198,42,Medicare,211077,Y,11146.21,3097.18
+48,189935953,58443701205,Columbia,1001000,5048,Columbia Memorial Hospital,70 or Older,101,F,White,4,Emergency,2010,112,0,47,Medicare,211077,Y,14745.4,4930.57
+49,538875315,55645172318,Columbia,1001000,5049,Columbia Memorial Hospital,30 to 49,104,F,Other Race,1,Emergency,2010,171,128,517,Self-Pay,234930,Y,9865.21,3798.36
+50,856595923,38102458327,Columbia,1001000,5050,Columbia Memorial Hospital,50 to 69,104,M,White,3,Emergency,2010,101,0,198,Blue Cross,246746,Y,12793.19,4086.94
+51,492105798,25209092589,Columbia,1001000,5051,Columbia Memorial Hospital,30 to 49,105,F,Other Race,2,Emergency,2010,230,147,313,Self-Pay,142487,Y,10310.56,4373.72
+52,473201637,10873625019,Columbia,1001000,5052,Columbia Memorial Hospital,50 to 69,105,F,White,1,Emergency,2010,102,0,203,Insurance Company,211077,Y,5138.1,1558
+53,383989392,36282465018,Columbia,1001000,5053,Columbia Memorial Hospital,50 to 69,105,F,White,10,Emergency,2010,657,0,753,Medicare,199578,Y,15079.94,6930.28
+54,519634894,57230918974,Columbia,1001000,5054,Columbia Memorial Hospital,50 to 69,105,F,White,2,Emergency,2010,145,0,247,Insurance Company,249738,Y,5851.33,2771.97
+55,802870567,73460457963,Columbia,1001000,5055,Columbia Memorial Hospital,70 or Older,109,F,White,3,Emergency,2010,2,214,720,Medicare,246746,Y,10652.24,3906.78
+56,478599952,78486107250,Columbia,1001000,5056,Columbia Memorial Hospital,30 to 49,112,M,Other Race,18,Emergency,2010,236,172,361,Self-Pay,249738,Y,32857.06,16111
+57,812538756,52887164625,Columbia,1001000,5057,Columbia Memorial Hospital,30 to 49,112,F,Black/African American,1,Emergency,2010,102,0,203,Insurance Company,244319,Y,8710.6,2131.85
+58,222768168,50678156283,Franklin,1623001,5058,Adirondack Medical Center-Saranac Lake Site,0 to 17,100,F,White,1,Emergency,2010,122,0,139,Blue Cross,208939,Y,4109.62,2233.97
+59,373347473,93115387214,Franklin,1623001,5059,Adirondack Medical Center-Saranac Lake Site,18 to 29,100,M,White,4,Emergency,2010,234,66,650,Blue Cross,257000,Y,23842.14,11759.72
+60,137912288,80125130465,Franklin,1623001,5060,Adirondack Medical Center-Saranac Lake Site,18 to 29,100,F,White,2,Emergency,2010,142,80,225,Insurance Company,175764,Y,13033.84,5586.73
+61,467562188,49237690815,Franklin,1623001,5061,Adirondack Medical Center-Saranac Lake Site,70 or Older,100,M,White,4,Emergency,2010,197,0,383,Medicare,129150,Y,9658.86,5520.12
+62,512157748,54127439863,Franklin,1623001,5062,Adirondack Medical Center-Saranac Lake Site,0 to 17,105,M,White,1,Emergency,2010,55,0,249,Insurance Company,253649,Y,8196.94,2616.57
+63,408420355,90579061524,Franklin,1623001,5063,Adirondack Medical Center-Saranac Lake Site,50 to 69,105,F,White,2,Emergency,2010,142,80,225,Self-Pay,192489,Y,15460.62,6344.93
+64,990541972,21614751079,Franklin,1623001,5064,Adirondack Medical Center-Saranac Lake Site,70 or Older,109,M,White,12,Emergency,2010,238,160,711,Medicare,224170,Y,52538.61,26133.14
+65,864826058,60715726017,Franklin,1623001,5065,Adirondack Medical Center-Saranac Lake Site,70 or Older,109,F,White,1,Elective,2010,102,0,198,Medicare,252907,Y,5977.5,3094.75
+66,935031242,31360174295,Franklin,1623001,5066,Adirondack Medical Center-Saranac Lake Site,70 or Older,109,F,White,8,Emergency,2010,101,0,198,Medicare,196889,Y,16277.2,10114.43
+67,989943236,39286753091,Franklin,1623001,5067,Adirondack Medical Center-Saranac Lake Site,70 or Older,109,F,White,2,Emergency,2010,138,0,243,Medicare,196889,Y,7339.04,4085.77
+68,610529158,62484739576,Franklin,1623001,5068,Adirondack Medical Center-Saranac Lake Site,0 to 17,112,F,White,2,Emergency,2010,244,37,143,Blue Cross,156843,Y,10365.66,5542.71
+69,335514605,94630215718,Franklin,1623001,5069,Adirondack Medical Center-Saranac Lake Site,30 to 49,113,M,Other Race,3,Emergency,2010,242,216,812,Medicaid,196889,Y,19884.92,11246.05
+70,723625501,65134258709,Franklin,1623001,5070,Adirondack Medical Center-Saranac Lake Site,30 to 49,115,M,Unknown,2,Emergency,2010,236,160,317,Self-Pay,224170,Y,7796.82,4123.6
+71,248096377,17530452961,Franklin,1623001,5071,Adirondack Medical Center-Saranac Lake Site,30 to 49,115,F,White,3,Emergency,2010,234,39,930,Self-Pay,175764,Y,15291.76,5883.22
+72,586223425,36108618542,Franklin,1623001,5072,Adirondack Medical Center-Saranac Lake Site,0 to 17,117,M,White,3,Emergency,2010,230,147,313,Self-Pay,252452,Y,14689.64,7478.18
+73,616385159,74698752380,Franklin,1623001,5073,Adirondack Medical Center-Saranac Lake Site,0 to 17,117,M,White,3,Emergency,2010,134,0,113,Self-Pay,233069,Y,11498.36,5609.55
+74,446523986,34518207153,Franklin,1623001,5074,Adirondack Medical Center-Saranac Lake Site,30 to 49,117,M,Unknown,5,Emergency,2010,226,146,308,Blue Cross,224170,Y,19145.68,10733.48
+75,179564893,68429873215,Franklin,1623001,5075,Adirondack Medical Center-Saranac Lake Site,30 to 49,117,M,White,1,Emergency,2010,154,0,249,Blue Cross,196889,Y,5016.48,2464.03
+76,226910297,52893102615,Livingston,2527000,5076,Nicholas H Noyes Memorial Hospital,18 to 29,105,M,White,3,Emergency,2010,234,66,650,Self-Pay,124859,Y,12775.73,4855.73
+77,573661825,42805637819,Livingston,2527000,5077,Nicholas H Noyes Memorial Hospital,18 to 29,115,M,White,1,Emergency,2010,149,0,284,Insurance Company,109519,Y,7714.41,2049.54
+78,319526098,51369082145,Livingston,2527000,5078,Nicholas H Noyes Memorial Hospital,18 to 29,130,F,White,2,Emergency,2010,142,80,225,Blue Cross,124859,Y,15935.9,5377.51
+79,278466456,67956258431,Livingston,2527000,5079,Nicholas H Noyes Memorial Hospital,30 to 49,130,F,White,3,Emergency,2010,197,0,383,Medicare,234105,N,8346.3,3541.82
+80,138064978,12985376428,Livingston,2527000,5080,Nicholas H Noyes Memorial Hospital,50 to 69,131,F,White,3,Elective,2010,203,152,302,Medicare,191677,N,35248.64,11206.34
+81,258471904,17869048536,Livingston,2527000,5081,Nicholas H Noyes Memorial Hospital,70 or Older,136,M,Other Race,4,Emergency,2010,127,0,140,Medicare,203697,Y,9841.77,4502.19
+82,642291529,53709217806,Livingston,2527000,5082,Nicholas H Noyes Memorial Hospital,0 to 17,140,M,White,1,Elective,2010,222,231,640,Medicaid,256943,N,841.95,656.38
+83,634312053,80245631805,Livingston,2527000,5083,Nicholas H Noyes Memorial Hospital,50 to 69,140,M,White,1,Elective,2010,203,162,313,Blue Cross,191677,N,25948.47,8154.87
+84,362671680,28460279136,Livingston,2527000,5084,Nicholas H Noyes Memorial Hospital,70 or Older,140,F,White,5,Emergency,2010,226,146,308,Medicare,187689,Y,23056.37,9564.22
+85,507481614,87452041697,Livingston,2527000,5085,Nicholas H Noyes Memorial Hospital,18 to 29,141,F,White,1,Emergency,2010,142,80,225,Medicaid,124859,N,12888.15,4093.45
+86,827614194,63412589687,Livingston,2527000,5086,Nicholas H Noyes Memorial Hospital,50 to 69,141,M,White,3,Elective,2010,212,153,301,Medicare,191677,N,37825.82,12522.13
+87,567698113,94728053741,Livingston,2527000,5087,Nicholas H Noyes Memorial Hospital,50 to 69,142,M,White,4,Emergency,2010,127,216,140,Other Federal Program,203697,Y,11127.53,4632.88
+88,683980265,18476530928,Livingston,2527000,5088,Nicholas H Noyes Memorial Hospital,50 to 69,142,M,White,4,Emergency,2010,127,0,140,Medicare,207389,Y,8651.89,4251.23
+89,533172394,18692754915,Livingston,2527000,5089,Nicholas H Noyes Memorial Hospital,18 to 29,143,F,White,1,Emergency,2010,142,80,225,Blue Cross,124859,Y,12021.28,3889.75
+90,920484260,97559362102,Livingston,2527000,5090,Nicholas H Noyes Memorial Hospital,18 to 29,144,M,White,1,Emergency,2010,128,0,141,Medicaid,207389,Y,4526.74,1523.23
+91,708488433,68752466194,Livingston,2527000,5091,Nicholas H Noyes Memorial Hospital,0 to 17,144,M,Unknown,3,Newborn,2010,218,220,639,CHAMPUS,169902,N,5577.23,2578.66
+92,700576550,6868782328,Livingston,2527000,5092,Nicholas H Noyes Memorial Hospital,0 to 17,144,M,Unknown,2,Urgent,2010,135,0,249,Blue Cross,228697,N,2080.54,1639.72
+93,957629155,83807876600,Livingston,2527000,5093,Nicholas H Noyes Memorial Hospital,0 to 17,144,M,White,2,Newborn,2010,218,220,640,Blue Cross,121174,N,4559.03,1839.33
+94,880881699,18779639667,Madison,2601001,5094,Oneida Healthcare Center,50 to 69,105,F,White,4,Emergency,2010,152,221,282,Insurance Company,151895,Y,14150.71,5850.02
+95,340289271,37482586121,Monroe,2738000,5095,Rochester General Hospital,30 to 49,145,F,Black,1,Emergency,2010,110,75,185,Medicare,105689,N,13021.45,4750.3
+96,214759384,29574213590,Chenango,2612002,5096,Chenango Memorial Hospital,50 to 69,146,M,White,3,Newborn,2010,198,210,654,Medicaid,119874,Y,5570.99,2670.45
+97,530184731,48491238561,Ontario,2546000,5097,Clifton Springs Hospital,18 to 29,147,F,Hispanic,2,Urgent,2010,122,0,192,Blue Cross,217456,N,2087.35,1495.22
+98,678459023,89124687020,Cayuga,2603003,5098,Auburn Community Hospital,70 and older,148,M,White,4,Emergency,2010,180,200,340,Insurance Company,165423,Y,14075.89,6230.78
+99,192743861,68354109238,Yates,2539001,5099,Soldiers and Sailors Memorial Hospital,30 to 49,149,F,Asian,1,Emergency,2010,115,80,195,Medicaid,136980,N,5021.67,1932.88
+100,315849026,58391740582,Herkimer,2604004,5100,Little Falls Hospital,0 to 17,150,M,White,2,Newborn,2010,220,225,670,CHAMPUS,171024,N,5605.13,2735.9
